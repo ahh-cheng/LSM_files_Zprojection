@@ -1,5 +1,5 @@
 # LSM_files_Zprojection
-ImageJ macro for converting Zeiss LSM files to Zprojections
+ImageJ macros for converting Zeiss LSM files to z-projections
 
 The macro template to process multiple images in a folder is from https://forum.image.sc/t/batch-processing-several-folder/6636
 
